@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main()
 {
-    printf("ambika got new laptop hurry!\n");
+    int a=2;
+    printf("the value is%d\n",a);
     return 0;
 }
